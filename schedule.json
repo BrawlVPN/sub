@@ -1,0 +1,21 @@
+{
+  "school": "МБОУ СОШ № 1",
+  "grade": "9А",
+  "lessons": [
+    { "day": 1, "start": "08:30", "end": "09:15", "subject": "Математика",   "cabinet": "204" },
+    { "day": 1, "start": "09:25", "end": "10:10", "subject": "Русский язык", "cabinet": "112" },
+    { "day": 1, "start": "10:25", "end": "11:10", "subject": "Физика",       "cabinet": "301" },
+    { "day": 1, "start": "11:30", "end": "12:15", "subject": "История",      "cabinet": "207" },
+    { "day": 1, "start": "12:25", "end": "13:10", "subject": "Английский",   "cabinet": "219" },
+
+    { "day": 2, "start": "08:30", "end": "09:15", "subject": "Химия",        "cabinet": "305" },
+    { "day": 2, "start": "09:25", "end": "10:10", "subject": "Математика",   "cabinet": "204" },
+    { "day": 2, "start": "10:25", "end": "11:10", "subject": "Литература",   "cabinet": "112" },
+    { "day": 2, "start": "11:30", "end": "12:15", "subject": "Информатика",  "cabinet": "310" },
+
+    { "day": 3, "start": "08:30", "end": "09:15", "subject": "Биология",     "cabinet": "303" },
+    { "day": 3, "start": "09:25", "end": "10:10", "subject": "Математика",   "cabinet": "204" },
+    { "day": 3, "start": "10:25", "end": "11:10", "subject": "Английский",   "cabinet": "219" },
+    { "day": 3, "start": "11:30", "end": "12:15", "subject": "Физкультура",  "cabinet": "спортзал" }
+  ]
+}
